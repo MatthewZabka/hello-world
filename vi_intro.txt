@@ -1,0 +1,12 @@
+In this .txt file, I hope to write some commands for writing in vi.
+
+To open a file with vi, type: vi filename
+
+Whenever a colon (:) is typed, the cursor will move to the botom of the screen.
+
+:x    Quit vi and save.
+:wq   Quit vi and save.
+:q    Quit vi
+:q!   Quit vi and do not save
+
+Movement
