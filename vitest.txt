@@ -1,0 +1,2 @@
+This is just a text file.  I'd like to learn how to better use vi.
+We can try to save this file.
